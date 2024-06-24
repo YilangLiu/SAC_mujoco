@@ -21,7 +21,7 @@ Actuators (name/actuator/parameter):
     <numeric name="three_numbers" data="1.0 2.0 3.0" />
   </custom>
 
-  <option timestep='0.1'/>
+  <option timestep='0.01'/>
 
   <visual>
     <map force="0.1" zfar="30"/>
